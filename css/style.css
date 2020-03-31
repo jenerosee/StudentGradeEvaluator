@@ -1,0 +1,84 @@
+*{
+    padding: none;
+    margin: 0;
+}
+@font-face {
+    font-family: Segoe;
+    src: url(../fonts/Segoe\ Script.ttf);
+}
+@font-face {
+    font-family: Gothics;
+    src: url(../fonts/GOTHIC.TTF);
+}
+h1{
+    font-size: 100%;
+    font-family: Segoe;
+}
+
+.main{
+    background-image: url('../img/90589861_211243079972619_7709627847219871744_n.png');
+    background-size: cover;
+    font-size: 100px;
+    margin: none;
+    padding: none;
+}
+.container {
+    background-image: url("../img/90589861_211243079972619_7709627847219871744_n.png");
+    background-size: cover;
+    font-size: 1rem;
+    font-weight: 2px; 
+}
+#white {
+    background: whitesmoke;
+    margin-top: 7%;
+    width: 50%;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 37px;
+    background: linear-gradient(225deg, #fbfbfb, #d4d4d4);
+    box-shadow: -5px -5px 10px #5e5e5e,
+                5px 5px 1px #ffff;
+}
+#stud-name, #list-sub {
+    padding-left: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+#roww {
+    margin-bottom: 15px;
+}
+#row-name {
+    font-weight: bolder;
+}
+.rem {
+    padding-left: 60px;
+}
+#mathema, #scis, #englis, #fili, #pep {
+    padding-left: 60px;
+}
+#head {
+    margin-bottom: 30px;
+    text-align: center;
+    padding-right: 40px;
+    font-weight: bolder;
+}
+#ran {
+    padding-top: 20px;
+}
+#rank-place {
+    padding-bottom: 10px;
+}
+#rank-h {
+    font-weight: bold;
+}
+.ranke {
+    font-weight: bold;
+}
+button {
+    position: relative;
+    background: linear-gradient(225deg, #fbfbfb, #d4d4d4);
+    box-shadow: 5px 5px 10px #5e5e5e,
+                5px 5px 2rem #928c8c;
+}
+
