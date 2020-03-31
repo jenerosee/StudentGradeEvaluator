@@ -165,7 +165,7 @@ function getRemark() {
     }
     else
      {
-         document.getElementById("rank-h").textContent="none";
+         document.getElementById("rank-h").textContent="None";
      }
 }
 
