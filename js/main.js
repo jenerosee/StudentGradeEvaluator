@@ -165,7 +165,7 @@ function getRemark() {
     }
     else
      {
-         document.getElementById("rank-h").textContent="Average Student";
+         document.getElementById("rank-h").textContent="None";
      }
 }
 
